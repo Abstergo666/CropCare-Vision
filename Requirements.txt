@@ -1,3 +1,9 @@
 tensorflow==2.12.0
 opencv-python==4.9.0.80
 numpy==1.24.3
+
+/////Install necessary required files/////
+////Run these commands below in your cmd
+
+pip install tensorflow==2.12.0 opencv-python==4.9.0.80 numpy==1.24.3
+pip install tensorflow opencv-python numpy
