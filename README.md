@@ -34,6 +34,12 @@ Model File: `spinach_leaf_model.h5`
 | 🔁 OpenCV        | Video processing and frame annotation   |
 | 📡 RTSP Output   | Optional RTSP stream using FFmpeg or GStreamer |
 
+## 📂 Code Files
+
+- `main.py` – Real-time leaf disease detection from IP camera
+- `train_model.py` – CNN training code for spinach leaf dataset
+- `test_model.py` – Evaluate model accuracy on test data
+
 ---
 
 
