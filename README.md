@@ -1,4 +1,4 @@
-# 🍃 Real-Time Leaf Disease Detection using Deep Learning | B.Tech Final Year Project
+# 🍃 Real-Time Leaf Disease Detection using Deep Learning 
 
 This repository contains the code for real-time spinach leaf disease detection using a custom-trained Convolutional Neural Network (CNN) model. The system captures live video from an IP camera, performs classification using a Keras model, and optionally streams the annotated video over RTSP.
 
